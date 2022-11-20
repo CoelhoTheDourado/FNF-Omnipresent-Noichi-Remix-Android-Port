@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				624,
+				600
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sanic idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				605,
+				583
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sanic up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				608,
+				595
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sanic right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				633,
+				570
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sanic left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				627,
+				479
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sanic down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sanic",
+	"position": [
+		-70,
+		-110
+	],
+	"healthicon": "sanic",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		95,
+		255
+	],
+	"camera_position": [
+		150,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 0.25
+}
